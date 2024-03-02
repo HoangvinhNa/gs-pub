@@ -1,1 +1,0 @@
-Invalid license signature. Please make sure the license file was not modified.
